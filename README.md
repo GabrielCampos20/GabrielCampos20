@@ -1,4 +1,4 @@
-### Olá! Meu nome é Gabriel, sou um desenvolvedor júnior que atualmente estuda no Colégio Técnico de Bom Jesus.
+
 
 
 <div align="center">
