@@ -1,5 +1,5 @@
 ## Olá, Sou Gabriel Campos!
-<div align="center">
+<div align="center" style="display: flex; flex-direction: row;">
   <a href="https://github.com/thes1lentkiller">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thes1lentkiller&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thes1lentkiller&layout=compact&langs_count=7&theme=dark"/>
