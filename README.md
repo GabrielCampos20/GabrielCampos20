@@ -33,6 +33,6 @@
 
 <br clear="both">
 
-<img src="https://github.com/GabrielCampos20/GabrielCampos20/blob/main/snake.yml" alt="Snake animation" />
+![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
 
 ###
